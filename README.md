@@ -1,5 +1,7 @@
 #Starter Web Project
 
+The purpose is just a test
+
 This is a simple website project for showing how to use Git and Github togather. Updating for emergency fix after stashing.
 ##Introduction
 
